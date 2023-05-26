@@ -1,0 +1,15 @@
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/bin/Debug/net7.0/CAB301_Assessment02
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/bin/Debug/net7.0/CAB301_Assessment02.deps.json
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/bin/Debug/net7.0/CAB301_Assessment02.runtimeconfig.json
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/bin/Debug/net7.0/CAB301_Assessment02.dll
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/bin/Debug/net7.0/CAB301_Assessment02.pdb
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/obj/Debug/net7.0/CAB301_Assessment02.csproj.AssemblyReference.cache
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/obj/Debug/net7.0/CAB301_Assessment02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/obj/Debug/net7.0/CAB301_Assessment02.AssemblyInfoInputs.cache
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/obj/Debug/net7.0/CAB301_Assessment02.AssemblyInfo.cs
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/obj/Debug/net7.0/CAB301_Assessment02.csproj.CoreCompileInputs.cache
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/obj/Debug/net7.0/CAB301_Assessment02.dll
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/obj/Debug/net7.0/refint/CAB301_Assessment02.dll
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/obj/Debug/net7.0/CAB301_Assessment02.pdb
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/obj/Debug/net7.0/CAB301_Assessment02.genruntimeconfig.cache
+/Users/justinlee/Desktop/CAB301/CAB301_Assessment02/CAB301_Assessment02/obj/Debug/net7.0/ref/CAB301_Assessment02.dll
