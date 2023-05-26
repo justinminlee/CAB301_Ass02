@@ -1,20 +1,19 @@
 # CAB301_Ass02
 
 # Description
-'''
-Understanding and application of non-linear data structures and algorithms, particularly in the development of reusable 
+
+ - Understanding and application of non-linear data structures and algorithms, particularly in the development of reusable 
 Abstract Data Types (ADTs). You are provided with two ADT specifications in C# interfaces, along with partially 
 implemented ADT implementations. Your task is to complete the implementation of these ADTs by designing 
 efficient algorithms to solve computational problems and analyzing their time efficiency.
-'''
-'''
-The first ADT is called "Movie," representing a movie DVD in a library. 
+
+ - The first ADT is called "Movie," representing a movie DVD in a library. 
 It contains various attributes such as title, genre, classification, duration, 
 total number of copies in the library, and the number of available DVDs. The second ADT is "MovieCollection," 
 which is used to store and manipulate all the movies in the library. The underlying data structure used in the 
 MovieCollection implementation is a Binary Search Tree (BST). Each node in the BST is represented by the 
 inner class "BTreeNode" and contains references to left and right child nodes, as well as a Movie object.
-'''
+
 
 # Specific tasks
 
